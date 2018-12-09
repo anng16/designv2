@@ -1,3 +1,10 @@
-#### Footer col 1
+#### Länkar
+Här är några olika länkar som jag har valt ut åt just dig! Klicka dig vidare och utforska dem.
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+[Blekinge Tekniska Högskola](https://www.bth.se)
+
+[Google](https://www.google.com)
+
+[Github](https://www.github.com)
+
+Nu är det slut på länkandet här i footern.

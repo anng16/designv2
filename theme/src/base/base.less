@@ -1,0 +1,46 @@
+/**
+ * Base style to affect HTML elements on a general scale.
+ */
+@bgColorHtml: lightblue;
+@bgColorBody: white;
+@colorBody: #333;
+@fontFamilyBody: serif;
+@footerBg: #04a;
+@footerText: #fff;
+
+html {
+    overflow-y: scroll;
+    background-color: @bgColorHtml;
+}
+
+body {
+    width: 80%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    color: @colorBody;
+    background-color: @bgColorBody;
+    font: 100.01%/1 @fontFamilyBody;
+    box-shadow: 10px 10px 5px #000;
+    margin-bottom: 100px;
+}
+
+.region-footer {
+    background-color: @footerBg;
+    color: @footerText;
+    border: 5px solid @footerBg;
+}
+
+.region-header li a {
+    background-color: darkgrey;
+}
+
+.outer-wrap-flash {
+    width: 100%;
+}
+
+.region-flash img {
+    width: 100%;
+    border-radius: none;
+}
